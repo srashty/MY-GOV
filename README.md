@@ -1,6 +1,6 @@
 # MY GOV
 <html>
-<table background="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fmygov.in%2Fsites%2Fdefault%2Ffiles%2Fmaster_image%2Fmygov_fb_banner.jpg&imgrefurl=https%3A%2F%2Fmygov.in%2F&docid=I5o8qPwV49IB9M&tbnid=FAU7nCaY3JzUnM%3A&vet=1&w=1200&h=627&bih=638&biw=1366&q=Images%20for%20mygov&ved=0ahUKEwj46KClgLvSAhUHpY8KHRtiD78QMwgdKAIwAg&iact=mrc&uact=8" >
+<table background=https://www.google.co.in/search?q=images+of+mygov&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi4nruC7ufSAhVCRY8KHf3DAxoQ_AUIBygC&biw=1366&bih=638&dpr=1#imgrc=FAU7nCaY3JzUnM:>
 <tr>
 <th colspan="3">Mygov</th>
 </tr><tr>
