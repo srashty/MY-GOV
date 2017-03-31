@@ -1,6 +1,6 @@
 # MY GOV
 <html>
-<table background=https://www.google.co.in/search?q=images+of+mygov&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi4nruC7ufSAhVCRY8KHf3DAxoQ_AUIBygC&biw=1366&bih=638&dpr=1#imgrc=FAU7nCaY3JzUnM:>
+<table>
 <tr>
 <th colspan="3">Mygov</th>
 </tr><tr>
