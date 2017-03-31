@@ -2,7 +2,7 @@
 <html>
 <table>
 <tr>
-<th colspan="3">Mygov</th>
+<th colspan="3"><marquee direction="right">Mygov</marquee></th>
 </tr><tr>
 <th>DETAIL</th>
 <th>REQUIREMENT</th>
