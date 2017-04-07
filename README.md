@@ -48,7 +48,7 @@
 <th>keywords</th>
 <td>found</td>
 <td>200</td>
-<td cospan="2">this webpage contains keywords like mygov-8times, city-7 times</td>
+<td colspan="2">this webpage contains keywords like mygov-8times, city-7 times</td>
 
 </tr>
 <tr>
@@ -74,7 +74,7 @@
 <tr>
 <th>html page size</th>
 <td>12.25 kb</td>
-<td>this is less than averagethat leads to faster loading</td>
+<td colspan="2">this is less than averagethat leads to faster loading</td>
 </tr>
 <tr>
 <th>depricated HTML tags</th>
@@ -90,7 +90,7 @@
 <th>backlinks</th>
 <td>found</td>
 <td>200</td>
-<td colspan="2">your webpage contains more than 50 backlinks like"http://www.accessmygov.com/?uid=764" , "http://inmygov.com/comparepoliticians/sites/all/themes/mygov/front-assets/images/igo.png">
+<td colspan="2">your webpage contains more than 50 backlinks like"http://www.accessmygov.com/?uid=764">
 <tr>
 <th>Registration</th>
 <td>23april,2010</td>
@@ -105,5 +105,5 @@
 </tr>
 </table>
 </html>
-To go to the site click----><a href="http://www.digitalindia.gov.in"></a>
+To go to the site click----><a href="http://www.digitalindia.gov.in">MY-GOV</a>
 
