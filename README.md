@@ -75,7 +75,7 @@
 <th>html page size</th>
 <td cospan="2">--</td>
 <td>12.25 kb</td>
-<td>this is less than averagethat leads to faster loading</td>
+<td>this is less than average that leads to faster loading</td>
 </tr>
 <tr>
 <th>depricated HTML tags</th>
