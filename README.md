@@ -93,13 +93,6 @@
 <td colspan="2">your webpage contains more than 50 backlinks like"http://www.accessmygov.com/?uid=764"></td>
 </tr>
 <tr>
-<th>image alt tag</th>
-<td>not found</td>
-<td>404</td>
-<td>your webpage doesnot contains image tag</td>
-<td> your webpage must contain image tags with alt</td>
-</tr>
-<tr>
 <th>noindex checker</th>
 <td>not found</td>
 <td>404</td>
