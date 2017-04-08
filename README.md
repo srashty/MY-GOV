@@ -20,14 +20,14 @@
 </tr>
 <tr>
 <th>Meta description</th>
-<td>found</td>
-<td>200</td>
-<td>this webpage should have meta description</td>
+<td> not found</td>
+<td>404</td>
+<td>this webpage does not contain meta description</td>
 <td>MyGov is an innovative platform to build a partnership between citizens and Government with the help of technology for growth.It was launched 2 years ago to enable people directly interact with government by giving suggestions. </td>
 </tr>
 <tr>
 <th>SEO friendly</th>
-<td colspan="3">this is not SEO friendly</td>
+<td colspan="3">this is SEO friendly</td>
 <td>a good webpage must not contain "black hat", uppercase, underscore etc</td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@
 <td>not found</td>
 <td>404</td>
 <td>h1,h2</td>
-<td>this webpage contains h2 but does not contains h1</td>
+<td>this webpage does not contains h1,h2</td>
 </tr>
 <tr>
 <th>gzip compression</th>
@@ -46,9 +46,9 @@
 </tr>
 <tr>
 <th>keywords</th>
-<td>found</td>
-<td>200</td>
-<td colspan="2">this webpage contains keywords like mygov-8times, city-7 times</td>
+<td>not found</td>
+<td>404</td>
+<td colspan="2">this webpage should contain keywords like mygov, city,digital,my india</td>
 
 </tr>
 <tr>
@@ -90,7 +90,39 @@
 <th>backlinks</th>
 <td>found</td>
 <td>200</td>
-<td colspan="2">your webpage contains more than 50 backlinks like"http://www.accessmygov.com/?uid=764">
+<td colspan="2">your webpage contains more than 50 backlinks like"http://www.accessmygov.com/?uid=764"></td>
+</tr>
+<tr>
+<th>image alt tag</th>
+<td>not found</td>
+<td>404</td>
+<td>your webpage doesnot contains image tag</td>
+<td> your webpage must contain image tags with alt</td>
+</tr>
+<tr>
+<th>noindex checker</th>
+<td>not found</td>
+<td>404</td>
+<td>your webpage does not contain noindex tag</td>
+<td>as your webpage does not have this tag your webpage can be read and indexed by search engine</td>
+<tr>
+<tr>
+<th>inline CSS</th>
+<td>not found</td>
+<td>404</td>
+<td colspan="2">your webpage does not have inline css</td>
+</tr>
+<tr>
+<th>redirection tag</th>
+<td>not found</td>
+<td>404</td>
+<td>this webpage does not contain redirection tag</td>
+<td>by using this tag your webpage can redirect traffic</td>
+</tr>
+<tr>
+<th>pagerank</th>
+<td colspan="4">pagerank of this webpage is 0</td>
+</tr>
 <tr>
 <th>Registration</th>
 <td>23april,2010</td>
